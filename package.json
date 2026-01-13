@@ -1,0 +1,15 @@
+
+{
+  "name": "reality-check",
+  "version": "1.0.0",
+  "description": "Intelligent macOS productivity companion",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^31.0.0",
+    "electron-builder": "^24.13.3"
+  }
+}
